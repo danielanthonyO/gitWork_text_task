@@ -23,6 +23,13 @@ Verify the remote: git remote -v
 Push the changes to the remote repository: 
 git push -u origin main
  
+## 3. How to create a branch
+git checkout -b branch_name
+git push origin branch_name
+
+
+
+
 
 
 ## Course outline
